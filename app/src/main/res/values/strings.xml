@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">LatestMusicScene</string>
+    <string name="NewsStory1">News Story 1</string>
+    <string name="NewsStory2">News Story 2</string>
+    <string name="News1Des">Previously-unseen photos of The Beatles on the set of Help! are up for auction, with the shots estimated to sell for up to £15,000.</string>
+    <string name="News2Des">Pinegrove have announced their first tour since their year long hiatus ended. The band will play dates in the U.S. before arriving in the U.K. on Devcember 5, playing two dates in Bristol and London.</string>
+    <string name="title_activity_news2">News2</string>
+    <string name="title_activity_news3">News3</string>
+</resources>
